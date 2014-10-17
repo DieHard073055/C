@@ -1,0 +1,22 @@
+MODE	Team Death Match	PROTOTYPE	TDM_default,1
+MODE	Domination	PROTOTYPE	DOM_default,1
+MODE	Capture The Flag	PROTOTYPE	CTF_default,1
+MODE	Drop Zone	PROTOTYPE	DZ_default,1
+MODE	Free for All	PROTOTYPE	FFA_default,1
+MODE	Gun Game	PROTOTYPE	GG_default,1
+MODE	HeadQuaters	PROTOTYPE	HQ_default,1
+MODE	Infected	PROTOTYPE	INF_default,1
+MODE	Jugernaut	PROTOTYPE	JUG_default,1
+MODE	Kill Confirmed	PROTOTYPE	KC_default,1
+MODE	One in The Chamber	PROTOTYPE	OIC_default,1
+MODE	Search and Destroy	PROTOTYPE	SD_default,1
+MODE	Sabotage	PROTOTYPE	SAB_default,1
+MODE	Search And Destroy	PROTOTYPE	SD_default,1
+MODE	Team Defender	PROTOTYPE	DEF_default,1
+MODE	Team Jugernaut	PROTOTYPE	TJ_default,1
+MODE	Infected Ball	PROTOTYPE	Teehee,1
+MODE	JuggieDeath	PROTOTYPE	granada,1
+MODE	Eshan's Demolition	PROTOTYPE	EshanDem,1
+MODE	Eshan's Kill Confirmed	PROTOTYPE	EshanKC,1
+MODE	Eshan's Team Juggernaut	PROTOTYPE	EshanTJUG,1
+MODE	Eshan Team Sniper	PROTOTYPE	EshanTSnipe,1

@@ -1,0 +1,5 @@
+#include<stdio.h>
+main()
+{
+	char data[] = "mp_village,FFA_default,1"
+}
