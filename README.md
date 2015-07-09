@@ -1,4 +1,4 @@
 C
 =
 
-All weird c programming stuff i did on my first year
+All the experiments and assignments i have done to learn programming in C. 
